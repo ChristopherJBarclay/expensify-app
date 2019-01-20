@@ -1,3 +1,3 @@
 # Expensify App
 
-Budgeting application using React with Redux, and many production-level tools. 
+Budgeting application using React with Redux and many production-level tools. 
